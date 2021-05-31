@@ -9,7 +9,7 @@ This data is also saved to the user’s exact browser they are using so if they 
 
 This means if you open another site later in a different browser the data will no longer be there.
 
-<img src="1.png" alt="Application" />
+<img src="1.PNG" alt="Application" />
 
 ### LocalStorage
 localStorage is a way to store data on the client’s computer. It allows the saving of key/value pairs in a web browser and it stores data with no expiration date. localStorage can only be accessed via JavaScript, and HTML5. However, the user has the ability to clear the browser data/cache to erase all localStorage data.
